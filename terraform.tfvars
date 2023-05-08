@@ -1,0 +1,7 @@
+cidr_block          = "10.0.0.0/16"
+public_cidr_block_a = "10.0.1.0/24"
+public_cidr_block_b = "10.0.2.0/24"
+private_cidr_block  = "10.0.3.0/24"
+public_zone_a       = "us-east-2a"
+public_zone_b       = "us-east-2b"
+private_zone        = "us-east-2b"
